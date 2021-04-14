@@ -98,6 +98,13 @@ module.exports = {
             },
         },
         {
+            resolve: `gatsby-theme-ghost-toc`,
+            options: {
+                // Number of shown headline levels (optional, default: 2)
+                maxDepth: 2,
+            },
+        },
+        {
             resolve: `gatsby-plugin-gatsby-cloud`,
         },        
         // this (optional) plugin enables Progressive Web App + Offline functionality
