@@ -77,9 +77,9 @@ module.exports = {
                 overrideOS: false,
             },
         },
-        {
-            resolve: `gatsby-theme-ghost-members`,
-        },
+        //{
+        //    resolve: `gatsby-theme-ghost-members`,
+        //},
         {
             resolve: `gatsby-plugin-sharp`,
         },
