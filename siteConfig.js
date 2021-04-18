@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://mpjacob.com`,
+    siteUrl: `https://altefide.com`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
@@ -13,7 +13,7 @@ module.exports = {
     siteTitleMeta: `Jacob's Blog`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `Discover the fringes of your mind`,
+    siteDescriptionMeta: `Deep dive into everyday Life`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
     shortTitle: `Jacob's Blog`,
