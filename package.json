@@ -36,7 +36,7 @@
     "gatsby-rehype-ghost-links": "^2.0.0",
     "gatsby-rehype-prismjs": "^2.0.0",
     "gatsby-theme-ghost-dark-mode": "^2.0.0",
-    "gatsby-theme-ghost-members": "^2.0.0",
+    //"gatsby-theme-ghost-members": "^2.0.0",
     "gatsby-theme-try-ghost": "^2.0.0",
     "gatsby-transformer-rehype": "^1.9.8",
     "gatsby-theme-ghost-toc": "2.0.0",
